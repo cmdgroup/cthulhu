@@ -1,0 +1,14 @@
+{
+  "name": "Projects Service",
+  "version": "1.0.0",
+  "description": "Projects Service",
+  "author": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "request": "2.81.0"
+  }
+}
